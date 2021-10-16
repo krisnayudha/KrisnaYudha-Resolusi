@@ -4,3 +4,4 @@ November awal - tengah : bab 2
 November tengah - awal desember : bab 3
 desember membuat scara robot dan website
 februari robot selesai
+pengujian dilakukan sembari pengambilan data dan pengolahan data
