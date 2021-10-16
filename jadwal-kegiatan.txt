@@ -3,5 +3,6 @@ Oktober tengah - akhir : bab 1
 November awal - tengah : bab 2
 November tengah - awal desember : bab 3
 desember membuat scara robot dan website
-februari robot selesai
+Januari robot selesai
+februari website minimal 70% jadi
 pengujian dilakukan sembari pengambilan data dan pengolahan data
